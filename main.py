@@ -3,7 +3,8 @@
 import streamlit as st 
 from pandas import DataFrame
 
-from gspread_pandas import Spread,Client
+from gspread_pandas import Spread
+from gspread_pandas import Client
 from google.oauth2 import service_account
 
 # Application Related Module
