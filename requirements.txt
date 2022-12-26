@@ -4,3 +4,4 @@ gspread_pandas==3.2.2
 openai == 0.25.0
 pubchempy == 1.0.4
 pysmiles == 1.0.2
+matplotlib == 3.5.2
